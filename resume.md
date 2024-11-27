@@ -1,10 +1,9 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/Users/sjtuw1/Library/Application Support/typora-user-images/image-20220902164220883.png" />
 
-<span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+<span style="float:right;padding:6px">zhenjiaofenjie@sjtu.edu.cn <br>电话: 13917446637 
 </span>
 
-# Casualwriter  
+# 王景 
 
 ## Executive Summary
 
